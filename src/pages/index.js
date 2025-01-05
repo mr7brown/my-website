@@ -20,6 +20,47 @@ export default function Hello() {
           height: '2vh',
           fontSize: '20px',
         }}>
+
+{/* Row 1 Start */}
+
+{/* <Columns> 
+  <Column className='text--left'>
+  <Card>
+    <CardImage
+      cardImageUrl='img/b.png'
+    />
+  </Card>
+  </Column>
+  <Column className='text--left'>
+  <Card>
+    <CardImage
+      cardImageUrl='img/i.png'
+    />
+  </Card>
+  </Column>
+  <Column className='text--left'>
+  <Card>
+    <CardImage
+      cardImageUrl='img/n.png'
+    />
+  </Card>
+  </Column>
+  <Column className='text--left'>
+  <Card>
+    <CardImage
+      cardImageUrl='img/g.png'
+    />
+  </Card>
+  </Column>
+  <Column className='text--left'>
+  <Card>
+    <CardImage
+      cardImageUrl='img/o.png'
+    />
+  </Card>
+  </Column>
+</Columns> */}
+
       </div>
 
       <Columns> 
